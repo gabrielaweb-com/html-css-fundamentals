@@ -43,12 +43,11 @@ Throughout these activities, I practiced creating structured web pages, applying
 ```text
 html-css-fundamentals
 
-├── exercise-01
-├── exercise-02
-├── exercise-03
-├── ...
-├── exercise-16
-└── README.md
+└── projects
+    ├── project-01
+    ├── project-02
+    ├── project-03
+    └── project-04
 ```
 
 ---
